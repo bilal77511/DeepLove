@@ -5,7 +5,7 @@ Click on the [Use Template](https://github.com/surjithctly/nextly-template/gener
 ### 1\. Clone this Repository
 
 ```bash
-git clone https://github.com/surjithctly/nextly-template.git
+git clone https://github.com/bilal77511/DeepLove.git
 ```
 
 ### 2\. Navigate to the directory
